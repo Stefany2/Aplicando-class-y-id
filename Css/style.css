@@ -1,0 +1,10 @@
+/*seleccionamos esa class, para darle estilo a los elementos
+que tenga color1 */
+.color1{
+    color:blue;
+}
+/* para selccionar un id utilizamos #*/
+#titulo {
+color: red;
+}
+
